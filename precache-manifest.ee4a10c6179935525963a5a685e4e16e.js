@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/Snakey/static/media/about-img1.51d51d1c.png"
   },
   {
-    "revision": "8fc616b4bd9558e33137",
+    "revision": "44b277f602920b358aa8",
     "url": "/Snakey/static/css/main.9309639a.chunk.css"
   },
   {
@@ -28,8 +28,8 @@ self.__precacheManifest = [
     "url": "/Snakey/static/media/hero-banner2.bffeee24.png"
   },
   {
-    "revision": "8fc616b4bd9558e33137",
-    "url": "/Snakey/static/js/main.d05f16e2.chunk.js"
+    "revision": "44b277f602920b358aa8",
+    "url": "/Snakey/static/js/main.67275242.chunk.js"
   },
   {
     "revision": "55bc2621527e3ba9da478a93ebbc92f3",
@@ -56,7 +56,7 @@ self.__precacheManifest = [
     "url": "/Snakey/static/media/cta-bg.8f54b0ad.png"
   },
   {
-    "revision": "d35609417e934a86bea6ae9ddfca6c06",
+    "revision": "edd39756ceca2fb195e3d072e853b072",
     "url": "/Snakey/index.html"
   }
 ];
